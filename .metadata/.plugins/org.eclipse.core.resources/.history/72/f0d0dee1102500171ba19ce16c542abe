@@ -1,0 +1,14 @@
+
+public class Donghyun {
+	public static void main(String[] args){
+		int num1=1,num2=0;
+		String flag="x";
+		
+		System.out.printf("%s", flag);	
+		//¿Ã ∫Œ∫–	 
+		num2=Integer.parseInt(flag);
+		num1=num1/num2;
+		System.out.printf("%d",num1);
+		
+	}
+}
